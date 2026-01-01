@@ -10,15 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Online Code Editor**
+- 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Backend , Data Structures and Algorithms**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **AI/ML related projects**
 
-- 🤝 I’m looking for help with **Data Structures and Algorithms**
-
-- 💬 Ask me about **C++ , ALGO , FRONT-END**
+- 💬 Ask me about **Python, SQL, ML**
 
 - 📫 How to reach me **karenarasimhababu2002@gmail.com**
 
