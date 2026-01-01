@@ -1,4 +1,4 @@
-![MasterHead](https://images4.alphacoders.com/973/973967.jpg)
+<!-- ![MasterHead](https://images4.alphacoders.com/973/973967.jpg) -->
 
 
 <h1 align="center">Hi 👋, I'm Narasimha Babu</h1>
